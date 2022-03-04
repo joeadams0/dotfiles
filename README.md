@@ -14,3 +14,4 @@ brew install ag fzf tmux
 * Install https://github.com/romkatv/powerlevel10k
 * Zsh plugins: docker git npm tmux
 * Symlink dot files to home directory
+* Install: https://berkeleygraphics.com/typefaces/berkeley-mono
